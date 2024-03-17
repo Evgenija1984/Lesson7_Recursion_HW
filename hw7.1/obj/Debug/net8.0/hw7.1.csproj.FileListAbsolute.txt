@@ -1,0 +1,14 @@
+D:\Документы\Desktop\гб\HW_Lesson7_Recursion\hw7.1\bin\Debug\net8.0\hw7.1.exe
+D:\Документы\Desktop\гб\HW_Lesson7_Recursion\hw7.1\bin\Debug\net8.0\hw7.1.deps.json
+D:\Документы\Desktop\гб\HW_Lesson7_Recursion\hw7.1\bin\Debug\net8.0\hw7.1.runtimeconfig.json
+D:\Документы\Desktop\гб\HW_Lesson7_Recursion\hw7.1\bin\Debug\net8.0\hw7.1.dll
+D:\Документы\Desktop\гб\HW_Lesson7_Recursion\hw7.1\bin\Debug\net8.0\hw7.1.pdb
+D:\Документы\Desktop\гб\HW_Lesson7_Recursion\hw7.1\obj\Debug\net8.0\hw7.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документы\Desktop\гб\HW_Lesson7_Recursion\hw7.1\obj\Debug\net8.0\hw7.1.AssemblyInfoInputs.cache
+D:\Документы\Desktop\гб\HW_Lesson7_Recursion\hw7.1\obj\Debug\net8.0\hw7.1.AssemblyInfo.cs
+D:\Документы\Desktop\гб\HW_Lesson7_Recursion\hw7.1\obj\Debug\net8.0\hw7.1.csproj.CoreCompileInputs.cache
+D:\Документы\Desktop\гб\HW_Lesson7_Recursion\hw7.1\obj\Debug\net8.0\hw7.1.dll
+D:\Документы\Desktop\гб\HW_Lesson7_Recursion\hw7.1\obj\Debug\net8.0\refint\hw7.1.dll
+D:\Документы\Desktop\гб\HW_Lesson7_Recursion\hw7.1\obj\Debug\net8.0\hw7.1.pdb
+D:\Документы\Desktop\гб\HW_Lesson7_Recursion\hw7.1\obj\Debug\net8.0\hw7.1.genruntimeconfig.cache
+D:\Документы\Desktop\гб\HW_Lesson7_Recursion\hw7.1\obj\Debug\net8.0\ref\hw7.1.dll
